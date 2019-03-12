@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\upload_ok.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\upload_ok.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\verify_ok.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\verify_ok.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\upload_photo.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\upload_photo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\enroll_ok.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\enroll_ok.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\verify_fail.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\verify_fail.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\input_finger.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\input_finger.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\upload_fail.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\upload_fail.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\input_password.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\input_password.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\insert_card.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\insert_card.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\raw\\input_again.mp3",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\raw\\input_again.mp3"
+    }
+]

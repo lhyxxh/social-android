@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_action.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\anim\\alpha_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\out_righttoleft.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\anim\\out_righttoleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\loading.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\anim\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\in_lefttoright.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\anim\\in_lefttoright.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\anim\\head_in.xml"
+    }
+]

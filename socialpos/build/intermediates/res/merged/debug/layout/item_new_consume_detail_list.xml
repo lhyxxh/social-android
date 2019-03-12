@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/pay_list_title"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_bar_code"
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/pay_left1" />
+
+        <TextView
+            android:id="@+id/tv_super_code"
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/pay_right12" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/pay_right2" />
+
+        <TextView
+            android:id="@+id/tv_price"
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/pay_right3" />
+
+        <TextView
+            android:id="@+id/tv_amount"
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/pay_right4" />
+        <TextView
+            android:id="@+id/tv_sum"
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/pay_right5" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,208 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/view_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="7"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <include layout="@layout/view_pay_list" />
+
+                <ListView
+                    android:id="@+id/listview"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:transcriptMode="alwaysScroll" >
+                </ListView>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <EditText
+                        android:id="@+id/et_bar_code"
+                        style="@style/pay_right_item"
+                        android:layout_weight="2"
+                        android:background="@null"
+                        android:hint="@string/pay_left1"
+                        android:inputType="number"
+                        android:singleLine="true" />
+                    <Spinner
+                        android:id="@+id/spinner_bar_code"
+                        style="@style/pay_right_item"
+                        android:layout_weight="2"
+                        android:background="@null"
+                        android:hint="@string/pay_left1"
+                        android:inputType="number"
+                        android:singleLine="true" >
+
+                    </Spinner>
+
+                    <EditText
+                        android:id="@+id/et_super_code"
+                        style="@style/pay_right_item"
+                        android:layout_weight="2"
+                        android:background="@null"
+                        android:hint="@string/pay_right12_hint"
+                        android:inputType="number"
+                        android:singleLine="true" />
+
+                    <TextView
+                        android:id="@+id/tv_name"
+                        style="@style/pay_right_item"
+                        android:layout_weight="2" />
+
+                    <TextView
+                        android:id="@+id/tv_unit"
+                        style="@style/pay_right_item"
+                        android:layout_weight="1"
+                        android:textColor="#00f" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="100dp"
+                        android:layout_weight="2"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/iv_reduce"
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_marginRight="10dp"
+                            android:src="@drawable/reduce" />
+
+                        <TextView
+                            android:id="@+id/tv_num"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:text="0"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:id="@+id/iv_add"
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_marginLeft="10dp"
+                            android:src="@drawable/add" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/tv_price"
+                        style="@style/pay_right_item"
+                        android:layout_weight="1" />
+
+                    <LinearLayout
+                        android:id="@+id/ll_delete"
+                        android:layout_width="0dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:gravity="center" >
+
+                        <ImageView
+                            android:id="@+id/iv_clear"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/delete" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@color/pay_background"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="数量:"
+                        android:textColor="#000"
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/tv_sum"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center"
+                        android:text="0"
+                        android:textColor="#f4a02e"
+                        android:textSize="28sp" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tv_read_card_info"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="6"
+                    android:background="@drawable/pay_shape"
+                    android:gravity="center"
+                    android:text="读卡"
+                    android:textColor="#fff"
+                    android:textSize="24sp"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_pay"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="6"
+                    android:background="@drawable/pay_shape"
+                    android:gravity="center"
+                    android:text="刷卡"
+                    android:textColor="#fff"
+                    android:textSize="24sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#fff"
+            android:orientation="vertical" >
+
+            <include layout="@layout/view_left" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,195 @@
+<resources>
+
+<!--     <string name="app_name">湛江社保卡消费系统</string> -->
+    <string name="app_name">滨州社保卡消费系统</string>
+    <string name="tv_eid">一体机编号:</string>
+    <string name="version_name">版本号:</string>
+    
+    <string name="login_title1">请输入账号</string>
+    <string name="login_title2">请输入密码</string>
+    
+    <string name="main_icon1">刷卡收费</string>
+    <string name="main_icon2">收费查询</string>
+    <string name="main_icon3">收费统计</string>
+    <string name="main_icon4">政策文件</string>
+    <string name="main_icon5">系统管理</string>
+    
+    <string name="main_new_icon1">刷卡消费</string>
+    <string name="main_new_icon2">撤销</string>
+    <string name="main_new_icon3">退货</string>
+    <string name="main_new_icon4">查余</string>
+    <string name="main_new_icon5">结算</string>
+    <string name="main_new_icon6">政策文件</string>
+    <string name="main_new_icon7">查询消费</string>
+    <string name="main_new_icon8">统计</string>
+    <string name="main_new_icon9">管理</string>
+    <string name="main_new_icon10">应用软件</string>
+    <string name="main_new_icon11">重打印</string>
+    <string name="main_new_icon12">修改密码</string>
+    <string name="back">返回</string>
+    
+    
+    <string name="pay_left0">键盘打开</string>
+    <string name="pay_left1">药品条形码</string>
+    <string name="pay_left1_hint">请输入药品条形码</string>
+    <string name="pay_left2">药品名称</string>
+    <string name="pay_left3">生产厂家</string>
+    <string name="pay_left4">单价</string>
+    <string name="pay_left5">规格</string>
+    <string name="pay_left6">数量</string>
+    
+    <string name="pay_right1">分类</string>
+    <string name="pay_right2">药品名称</string>
+    <string name="pay_right3">单价</string>
+    <string name="pay_right4">数量</string>
+    <string name="pay_right5">金额</string>
+    <string name="pay_right6">操作</string>
+    <string name="pay_right7">总价格</string>
+    <string name="pay_right8">一键清空</string>
+    <string name="pay_right9">连接打印机</string>
+    <string name="pay_right10">断开打印机</string>
+    <string name="pay_right11">实付</string>
+    <string name="pay_right12">电子监管码</string>
+    <string name="pay_right12_hint">请输入电子监管码</string>
+    
+    
+    
+    <string name="consume_left1">消费金额</string>
+    <string name="consume_right1">社保药</string>
+    <string name="consume_right2">非社保药</string>
+    <string name="consume_right3">撤销退款</string>
+    <string name="consume_right4">消费单号</string>
+    <string name="consume_right5">消费时间</string>
+    <string name="consume_right6">社保卡号</string>
+    <string name="consume_right7">收款人</string>
+    
+    <string name="pie_title1">当日收入</string>
+    <string name="pie_title2">当月收入</string>
+    <string name="pie_title3">当年收入</string>
+    
+    <string name="search_title1">开始时间</string>
+    <string name="search_title2">结束时间</string>
+    <string name="search_button">查询</string>
+    
+    <string name="drug_right1">产品码</string>
+    <string name="drug_right2">规格</string>
+    <string name="drug_right3">剂型</string>
+    <string name="drug_right4">医保分类</string>
+    <string name="drug_right5">产品名</string>
+    <string name="drug_right6">处方类别</string>
+    
+    <string name="recode_left1">普通药品</string>
+    <string name="recode_left2">保健药品</string>
+    <string name="recode_left3">医保甲类</string>
+    <string name="recode_left4">医保乙类</string>
+    
+    <string name="cardinfo_1">社保卡号</string>
+    <string name="cardinfo_2">身份证号</string>
+    <string name="cardinfo_3">姓名</string>
+    <string name="cardinfo_4">识别码</string>
+    <string name="cardinfo_5">性别</string>
+    <string name="cardinfo_6">发卡日期</string>
+    <string name="cardinfo_7">有效期</string>
+    <string name="cardinfo_8">余额</string>
+    <string name="cardinfo_9">社保卡状态</string>
+    <string name="cardinfo_10">手机号</string>
+    
+    <string name="Is_Delete_Pay">是否删除此条消费记录</string>
+    <string name="positive">确定</string>
+    <string name="cancle">取消</string>
+    <string name="record">录入</string>
+    
+    
+    <!-- 应用市场 -->
+    <string name="action_settings">设置</string>
+    
+    <string name="search">搜索</string>
+    <string name="search_error">搜索失败！请检查输入的应用名称是否正确！</string>
+    <string name="search_hint">请输入应用名称</string>
+    
+    <string name="my_app">我的应用</string>
+    <string name="app_store">应用市场</string>
+    <string name="app_manager">应用管理</string>
+    <string name="usual_app">常用应用</string>
+    <string name="all_app">所有应用</string>
+    
+    <string name="name">消费系统</string>
+    <string name="name_detail">消费系统详述 消费系统详述消费系统详述</string>
+    <string name="install">安装</string>
+    <string name="updata">更新</string>
+    <string name="open">打开</string>
+    <string name="uninstall">卸载</string>
+    
+    
+    <string name="title_update">软件版本更新</string>
+    <string name="title_install">软件安装</string>
+    <string name="download">下载</string>
+    <string name="later">以后再说</string>
+    <string name="cancel">取消</string>
+    
+    <!-- APP详细页面 -->
+    <string name="app_version">软件版本：v</string>
+    <string name="update_time">更新时间：</string>
+    <string name="app_size">大小：</string>
+    <string name="level_M">M</string>
+    <string name="update_detail">更新日志:\n</string>
+    <string name="update_now">立即更新</string>
+    
+    <string name="press_again">再按一次退出该应用程序</string>
+    
+    <string name="dialog_title">请输入退款金额</string>
+    <string name="dialog_amount">金额：</string>
+    <string name="bt_qurey">查询</string>
+    <string name="bt_cancel">取消</string>
+    
+    <!-- 打印机 -->
+    <string name="openConnect">打开连接</string>
+    <string name="printNote">打印小票</string>
+    <string name="button_scan">扫描新设备</string>
+    <string name="select_device">请选择要连接的设备</string>
+    <string name="scanning">扫描设备中...</string>
+    <string name="none_found">没有找到设备</string>
+    <string name="connect">打开连接</string>
+    <string name="disconnect">断开连接</string>
+    
+    <string name="company_name">打印机公司</string>
+    <string name="text_point24">这是一行混合格式文本，24号字体</string>
+    <string name="text_strike_point18">这是一行删除线文本，18号字体</string>
+    <string name="text_underLine_point18">这是一行下划线文本，18号字体</string>
+    <string name="text_common_point18">这是一行普通文本，18号字体</string>
+    <string name="shop_company_title">宁波月湖店</string>
+    <string name="shop_num">门店号：</string>
+    <string name="shop_receipt_num">单据号：</string>
+    <string name="shop_cashier_num">收银员：</string>
+    <string name="shop_receipt_date">单据日期：</string>
+    <string name="shop_print_time">打印时间：</string>
+    <string name="shop_goods_number">数量：</string>
+    <string name="shop_goods_total_price">总计：</string>
+    <string name="shop_payment">付款：</string>
+    <string name="shop_change">找零：</string>
+    <string name="shop_company_name">公司名称：江苏一五一十家居用品有限公司</string>
+    <string name="shop_company_site">公司网址：</string>
+    <string name="shop_company_address">地址：江苏省宁波市东昌路12号</string>
+    <string name="shop_company_tel">电话：</string>
+    <string name="shop_Service_Line">服务专线：</string>
+    <string name="shop_thanks">谢谢惠顾,欢迎再次光临！</string>
+    <string name="shop_demo">Demo 版本！</string>
+    <string name="note_title">品名;数量;单价;金额</string>
+    <string name="coffee">咖啡</string>
+    <string name="tableware">消毒餐具</string>
+    <string name="peanuts">油炸花生米</string>
+    <string name="cucumber">蒜泥黄瓜</string>
+    <string name="frog">干锅田鸡</string>
+    <string name="rice">米饭</string>
+    <string name="company_sub_title">专注，可靠，中国特种打印机优秀品牌</string>
+    <string name="bags">保鲜袋</string>
+    <string name="umbrella">雨伞</string>
+    <string name="hook">铁丝挂钩</string>
+    <string name="choose_barcode_type">条码类型:</string>
+    <string name="choose_paper_width">纸张宽度:</string>
+    <string name="choose_printer_type">打印机类型:</string>
+    <string name="choose_Encoding">编码方式:</string>
+    <string name="printer_type_remin">热敏</string>
+    <string name="printer_type_styuls">针打</string>
+
+</resources>

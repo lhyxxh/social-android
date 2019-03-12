@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HeadBanner">
+        <attr name="android:text"/>//在自定义属性中使用Android自带的属性名字
+    </declare-styleable>
+</resources>

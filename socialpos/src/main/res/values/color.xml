@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_divider">#d4d4d4</color>
+    <color name="main_top">#194f8f</color>
+    <color name="main_icon1">#eeaf00</color>
+    <color name="main_icon2">#00a5e5</color>
+    <color name="main_icon3">#26cf7e</color>
+    <color name="main_icon4">#28bfb8</color>
+    <color name="main_icon5">#e16588</color>
+    <color name="pay_division">#5cd7c3</color>
+    <color name="pay_background">#e7e7e7</color>
+    <color name="pay_shape">#0489d6</color>
+    <color name="pay_button">#f4a02e</color>
+    <color name="pay_list_title">#e7e7e7</color>
+    <color name="pay_list_item">#dceaed</color>
+    <color name="pay_list_item_press">#809bbb</color>
+    <color name="pie_clear">#e45454</color>
+    <color name="consume_button">#809bbb</color>
+    <color name="consume_price">#55ae36</color>
+    <color name="pie_title">#f0f7ff</color>
+    <color name="main_new_icon1">#0187d0</color>
+    <color name="main_new_icon2">#009f00</color>
+    <color name="main_new_icon3">#c30454</color>
+    <color name="main_new_icon4">#e05e24</color>
+    <color name="main_new_icon5">#a400ac</color>
+    <color name="main_new_icon6">#0a9d4d</color>
+    <color name="main_new_icon7">#dba600</color>
+    <color name="main_new_icon8">#0064b2</color>
+    <color name="main_new_icon9">#e16589</color>
+    <color name="main_new_icon10">#823a7c</color>
+    <color name="main_new_icon11">#6d557d</color>
+    <color name="main_new_icon12">#ffa815</color>
+    <color name="main_new_icon13">#fe952f</color>
+    <color name="main_new_icon14">#55c7f0</color>
+
+    <!-- 自定义键盘 -->
+    <color name="key_division">#eaeff2</color>
+    <color name="key_btn_positive">#0c73c2</color>
+    <color name="key_btn_cancle">#eaeff2</color>
+    <color name="key_text">#838489</color>
+    <color name="dialog_num_bg">#fff</color>
+    <color name="press_grey">#f0f0f0</color>
+    <color name="press_white">#ffffff</color>
+
+    <!-- 自定义颜色 -->
+    <color name="soft_blue">#49a2f3</color>
+
+    <!-- 应用市场 -->
+    <color name="white">#FFFFFF</color> <!-- 白色 -->
+    <color name="black">#000000</color> <!-- 黑色 -->
+    <color name="title_white_blue">#194f8f</color> <!-- 左侧标题   浅蓝色 -->
+    <color name="title_dark_blue">#163d68</color> <!-- 左侧标题  深蓝色 -->
+    <color name="white_blue">#0081fb</color> <!-- 文字 边框   浅蓝色 -->
+    <color name="search_blue">#0c73c2</color> <!-- 搜索  蓝色 -->
+    <color name="white_grey">#777777</color> <!-- 文字 浅灰色 -->
+    <color name="dark_grey">#2D2D2D</color> <!-- 文字 深灰色 -->
+    <color name="background_white_grey">#F0F0F0</color> <!-- 背景 浅灰色 -->
+    <color name="green_normal">#4cda64</color> <!-- 更新 绿色 -->
+    <color name="white_transparent">#CDFFFFFF</color> <!-- 白色透明背景 -->
+
+</resources>

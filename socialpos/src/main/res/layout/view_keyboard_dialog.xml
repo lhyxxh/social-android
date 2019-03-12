@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:orientation="vertical"
+    android:padding="20.0dip" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/dialog_shape"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/text_18_ffffff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="支付界面"
+            android:visibility="visible" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="#ffd0d0d0" />
+
+        
+        <EditText
+            android:id="@+id/et_sum"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@null"
+            android:gravity="center"
+            android:inputType="numberDecimal" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/key_division" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/tv_1"
+                    style="@style/keyboard_text"
+                    android:text="1" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/key_division" />
+
+                <TextView
+                    android:id="@+id/tv_2"
+                    style="@style/keyboard_text"
+                    android:text="2" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/key_division" />
+
+                <TextView
+                    android:id="@+id/tv_3"
+                    style="@style/keyboard_text"
+                    android:text="3" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/key_division" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/tv_4"
+                    style="@style/keyboard_text"
+                    android:text="4" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/key_division" />
+
+                <TextView
+                    android:id="@+id/tv_5"
+                    style="@style/keyboard_text"
+                    android:text="5" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/key_division" />
+
+                <TextView
+                    android:id="@+id/tv_6"
+                    style="@style/keyboard_text"
+                    android:text="6" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/key_division" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/tv_7"
+                    style="@style/keyboard_text"
+                    android:text="7" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/key_division" />
+
+                <TextView
+                    android:id="@+id/tv_8"
+                    style="@style/keyboard_text"
+                    android:text="8" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/key_division" />
+
+                <TextView
+                    android:id="@+id/tv_9"
+                    style="@style/keyboard_text"
+                    android:text="9" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/key_division" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/tv_0"
+                    style="@style/keyboard_text"
+                    android:text="0" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/key_division" />
+
+                <TextView
+                    android:id="@+id/tv_doc"
+                    style="@style/keyboard_text"
+                    android:text="." />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/key_division" />
+
+                <TextView
+                    android:id="@+id/tv_delete"
+                    style="@style/keyboard_text"
+                    android:text="C" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/key_division" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40.0dip"
+            android:layout_gravity="bottom"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/positiveButton"
+                style="@style/text_15_ffffff_sdw"
+                android:layout_width="0dp"
+                android:layout_height="40.0dip"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/positive" />
+
+            <View
+                android:layout_width="1.0px"
+                android:layout_height="fill_parent"
+                android:background="#ffd0d0d0" />
+
+            <TextView
+                android:id="@+id/negativeButton"
+                style="@style/text_15_666666_sdw"
+                android:layout_width="0dp"
+                android:layout_height="40.0dip"
+                android:layout_marginLeft="20.0dip"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/cancle" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_setting_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_sum_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_sum_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_keyboard_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_keyboard_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_progress.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_pay_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_new_pay_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_pay_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_pay_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\ativity_policy_word.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\ativity_policy_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_app_store.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_app_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\new_pay_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\new_pay_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_left.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_app_store.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\fragment_app_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_return.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_return.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_loading.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_revoke.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_revoke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_app_manager.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\fragment_app_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_common_datetime.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_common_datetime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\layout_list_view_item.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\layout_list_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_consume_detail_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_new_consume_detail_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_cardinfo_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_cardinfo_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_read_pdf.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_read_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\head_banner.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\head_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\spiner_item_layout.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\spiner_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_new_consume_detail_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_new_consume_detail_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\spiner_window_layout.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\spiner_window_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_drug_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_drug_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_setting_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_setting_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_revoke.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_revoke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_account_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_account_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\update_view.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\update_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_consume_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_new_consume_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_common_date.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_common_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_add_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_add_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_top.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_revoke_title.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_revoke_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_num_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_num_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_store.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_app_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_consume_detail.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_new_consume_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chart.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_consume_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_consume_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_pay_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_pay_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_consume_detail_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_consume_detail_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_app.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\fragment_my_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\files.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\files.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verify_finger.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_verify_finger.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_return_title.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_return_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_number.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_disable.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_main.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_new_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_update_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_update_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_db_backup.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_db_backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_consume_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_consume_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_new_consume_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_new_consume_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_revoke.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_revoke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\install_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\install_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_search_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_search_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_greendao.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_greendao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_pay_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_pay_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_new_consume_search.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_new_consume_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_keyboard.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_record_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_record_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_progress_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_app_update_dialog.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_app_update_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_consume.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_new_consume.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_update_progress.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_update_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_policy_list.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_policy_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_chart.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_app.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\item_my_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\view_menu_pop.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\view_menu_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vein_finger.xml",
+        "source": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\src\\main\\res\\layout\\activity_vein_finger.xml"
+    }
+]

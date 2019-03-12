@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="social_category">
+        <item>普通药品</item>
+        <item>保健药品</item>
+        <item>医保甲类</item>
+        <item>医保乙类</item>
+    </string-array>
+    <string-array name="host">
+        <item>120.24.72.174:2333(滨州正式)</item>
+        <item>120.25.230.37:11114(滨州体验)</item>
+        <item>120.25.70.236:11110(运维正式)</item>
+        <item>120.25.230.37:11110(运维体验)</item>
+    </string-array>
+
+</resources>

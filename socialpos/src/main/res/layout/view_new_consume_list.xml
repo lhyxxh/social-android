@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/pay_list_title"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/consume_right4" />
+
+        <TextView
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/consume_right5" />
+
+        <TextView
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/consume_left1" />
+
+        <TextView
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/consume_right6" />
+
+        <TextView
+            style="@style/pay_right_item"
+            android:layout_weight="1"
+            android:text="@string/pay_right4" />
+    </LinearLayout>
+
+</LinearLayout>

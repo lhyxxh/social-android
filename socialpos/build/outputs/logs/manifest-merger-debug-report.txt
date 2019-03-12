@@ -1,0 +1,473 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:1:1-228:12
+	package
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Z\.android\build-cache\10fd0d049d0bc1b8e13ca7b99f3d72f567428ade\output\AndroidManifest.xml:18:5-42
+MERGED from [social-android:socialposcore:unspecified] C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialposcore\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Z\.android\build-cache\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.tinker:tinker-android-loader:1.7.7] C:\Users\Z\.android\build-cache\7d8aa5520c196ba756e6cb82ed1b3d189efd3e9f\output\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.hardware.usb.host
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:16:5-85
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:16:22-82
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:17:22-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:19:22-81
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:22:5-85
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:22:22-82
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:24:5-25:23
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:30:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.PACKAGE_USAGE_STATS.
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:32:22-76
+uses-feature#android.hardware.usb.host
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:34:5-36:35
+	android:required
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:36:9-32
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:35:9-49
+application
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:38:5-222:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\Z\.android\build-cache\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\output\AndroidManifest.xml:19:5-20
+MERGED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:9:5-21:19
+MERGED from [com.tencent.tinker:tinker-android-loader:1.7.7] C:\Users\Z\.android\build-cache\7d8aa5520c196ba756e6cb82ed1b3d189efd3e9f\output\AndroidManifest.xml:10:5-11:19
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:42:9-41
+	android:allowBackup
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:41:9-38
+	android:theme
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:43:9-40
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:39:9-72
+service#com.baidu.location.f
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:44:9-52:19
+	android:enabled
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:46:13-35
+	android:process
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:47:13-38
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:45:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:48:13-51:29
+action#com.baidu.location.service_v2.2
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:49:17-50:26
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:49:25-71
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:54:9-56:64
+	android:value
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:56:13-61
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:55:13-52
+activity#com.eastcom.social.pos.activity.PolicyWordActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:61:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:59:13-78
+activity#com.eastcom.social.pos.activity.TestActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:63:9-69:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:65:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:67:13-72
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:64:13-72
+activity#com.eastcom.social.pos.activity.SettingActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:70:9-75:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:72:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:74:13-72
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:71:13-75
+activity#com.eastcom.social.pos.activity.FSExplorerActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:76:9-80:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:78:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:77:13-78
+activity#com.eastcom.social.pos.activity.ChartActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:81:9-85:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:84:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:83:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:82:13-73
+activity#com.eastcom.social.pos.activity.TempReadPDFActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:86:9-90:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:89:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:88:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:87:13-79
+activity#com.eastcom.social.pos.activity.ConfigActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:91:9-95:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:94:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:93:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:92:13-74
+activity#com.eastcom.social.pos.activity.MainActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:96:9-105:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:99:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:98:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:97:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:100:12-104:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:101:17-69
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:101:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:103:17-77
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:103:27-74
+activity#com.eastcom.social.pos.activity.DbBackUp
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:106:9-110:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:109:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:108:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:107:13-68
+activity#com.eastcom.social.pos.activity.ReadPDFActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:111:9-115:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:114:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:113:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:112:13-75
+activity#com.eastcom.social.pos.activity.LoginActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:116:9-120:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:119:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:118:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:117:13-73
+activity#com.eastcom.social.pos.activity.PayActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:121:9-127:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:124:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:123:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:126:13-72
+	android:theme
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:125:13-83
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:122:13-71
+activity#com.eastcom.social.pos.activity.PieActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:128:9-132:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:131:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:130:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:129:13-71
+activity#com.eastcom.social.pos.activity.ReturnActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:133:9-138:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:136:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:135:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:137:13-72
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:134:13-74
+activity#com.eastcom.social.pos.activity.NewConsumeActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:139:9-144:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:142:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:141:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:143:13-72
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:140:13-78
+activity#com.eastcom.social.pos.activity.NewConsumeDetailActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:145:9-150:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:148:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:147:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:149:13-72
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:146:13-84
+activity#com.eastcom.social.pos.activity.RevokeActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:151:9-156:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:154:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:153:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:155:13-72
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:152:13-74
+activity#com.eastcom.social.pos.activity.VeinFingerActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:157:9-162:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:160:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:159:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:161:13-72
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:158:13-78
+activity#com.eastcom.social.pos.activity.VerifyFingerActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:163:9-168:20
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:166:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:165:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:167:13-72
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:164:13-80
+activity#com.eastcom.social.pos.activity.AppDetailActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:169:9-172:53
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:172:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:171:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:170:13-77
+activity#com.eastcom.social.pos.activity.AppStoreActivity
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:173:9-177:67
+	android:screenOrientation
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:176:13-50
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:175:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:177:13-64
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:174:13-76
+receiver#com.eastcom.social.pos.receiver.BootBroadcastReceiver
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:180:9-186:20
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:180:19-87
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.LAUNCHER
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:181:13-185:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:182:17-79
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:182:25-76
+receiver#com.eastcom.social.pos.receiver.BootPackageReceiver
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:189:9-198:20
+	android:label
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:191:13-45
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:190:13-79
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:192:13-197:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:193:17-78
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:193:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:194:17-80
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:194:25-77
+data
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:196:17-50
+	android:scheme
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:196:23-47
+service#com.eastcom.social.pos.service.UploadService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:201:9-80
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:201:18-77
+service#com.eastcom.social.pos.service.UpdateSoftService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:202:9-84
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:202:18-81
+service#com.eastcom.social.pos.service.SlowUploadService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:203:9-84
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:203:18-81
+service#com.eastcom.social.pos.service.AuthService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:204:9-78
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:204:18-75
+service#com.eastcom.social.pos.service.FeedDogService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:205:9-81
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:205:18-78
+service#com.eastcom.social.pos.service.UpdateService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:206:9-80
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:206:18-77
+service#com.eastcom.social.pos.service.GPRSService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:207:9-78
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:207:18-75
+service#com.eastcom.social.pos.service.PolicyService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:208:9-80
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:208:18-77
+service#com.eastcom.social.pos.service.TimerService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:209:9-79
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:209:18-76
+service#com.eastcom.social.pos.service.QueryMedicineService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:210:9-87
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:210:18-84
+service#com.eastcom.social.pos.service.UploadVersionService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:211:9-87
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:211:18-84
+service#com.eastcom.social.pos.service.UploadTradeFileService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:212:9-89
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:212:18-86
+service#com.eastcom.social.pos.service.UploadIncreamentVersionService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:213:9-96
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:213:18-94
+service#com.eastcom.social.pos.application.MyTinkerResultService
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:214:9-215:40
+	android:exported
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:215:13-37
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:214:18-67
+receiver#com.eastcom.social.pos.receiver.AlarmReceiver
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:217:9-221:20
+	android:enabled
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:219:13-35
+	android:exported
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:220:13-36
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:218:13-73
+meta-data#TINKER_ID
+ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:224:5-226:41
+	android:value
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:226:9-38
+	android:name
+		ADDED from C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\src\main\AndroidManifest.xml:225:9-33
+service#com.tencent.tinker.lib.service.TinkerPatchService
+ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:10:9-13:40
+	android:process
+		ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:13:13-37
+	android:exported
+		ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:11:13-77
+service#com.tencent.tinker.lib.service.TinkerPatchService$InnerService
+ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:14:9-17:40
+	android:process
+		ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:17:13-37
+	android:exported
+		ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:15:13-90
+service#com.tencent.tinker.lib.service.DefaultTinkerResultService
+ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.tencent.tinker:tinker-android-lib:1.7.7] C:\Users\Z\.android\build-cache\2f360f436e1b5b22b6df8606d2fdfe0ea6e4af76\output\AndroidManifest.xml:19:13-85

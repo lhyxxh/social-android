@@ -1,0 +1,4 @@
+#Tue Mar 12 16:45:03 CST 2019
+base.0=C\:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

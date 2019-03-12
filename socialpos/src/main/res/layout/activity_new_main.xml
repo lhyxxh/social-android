@@ -1,0 +1,443 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="@drawable/main_bg" >
+
+        <TextView
+            android:id="@+id/tv_client_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="tcp网络状态"
+            android:textColor="#fff" />
+
+        <ImageView
+            android:id="@+id/imageView0"
+            style="@style/mainIconImage"
+            android:src="@drawable/main_logo" />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView0"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_version"
+                style="@style/mainText" />
+
+            <TextView
+                android:id="@+id/tv_eid"
+                style="@style/mainText" />
+
+            <TextView
+                android:id="@+id/tv_nodata"
+                style="@style/mainText" />
+
+            <TextView
+                android:id="@+id/tv_rfsam_status"
+                style="@style/mainText" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_sys_time"
+            style="@style/mainText"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/tv_network_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/tv_client_status"
+            android:textColor="#fff"
+             />
+
+    </RelativeLayout>
+
+    <View style="@style/area_h" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            style="@style/matchPar"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/rl1"
+                style="@style/matchPar2"
+                android:background="@color/main_new_icon1" >
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    style="@style/mainIconImage"
+                    android:src="@drawable/main_new_icon1" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    style="@style/mainIconText"
+                    android:layout_below="@+id/imageView1"
+                    android:text="@string/main_new_icon1" />
+            </RelativeLayout>
+
+            <View style="@style/area_h"     android:visibility="gone"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:visibility="gone"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/rl_vein_finger"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon13" >
+
+                    <ImageView
+                        android:id="@+id/imageView_vein_finger"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/vein_finger" />
+
+                    <TextView
+                        android:id="@+id/textView_vein_finger"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView_vein_finger"
+                        android:text="@string/main_new_icon13" />
+                </RelativeLayout>
+
+                <View style="@style/area_v" 
+                  />
+
+                <RelativeLayout
+                    android:id="@+id/rl_verify_finger"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    
+                    android:background="@color/main_new_icon14" >
+
+                    <ImageView
+                        android:id="@+id/imageView_verify_finger"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/verify_finger" />
+
+                    <TextView
+                        android:id="@+id/textView_verify_finger"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView_verify_finger"
+                        android:text="@string/main_new_icon14" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View style="@style/area_v" />
+
+        <LinearLayout
+            style="@style/matchPar"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/rl2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon2" >
+
+                    <ImageView
+                        android:id="@+id/imageView2"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon2" />
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView2"
+                        android:text="@string/main_new_icon2" />
+                </RelativeLayout>
+
+                <View style="@style/area_v" />
+
+                <RelativeLayout
+                    android:id="@+id/rl3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon3" >
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon3" />
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView3"
+                        android:text="@string/main_new_icon3" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View style="@style/area_h" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/rl8"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon8" >
+
+                    <ImageView
+                        android:id="@+id/imageView8"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon8" />
+
+                    <TextView
+                        android:id="@+id/textView8"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView8"
+                        android:text="@string/main_new_icon8" />
+                </RelativeLayout>
+
+                <View style="@style/area_v" />
+
+                <RelativeLayout
+                    android:id="@+id/rl7"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon7" >
+
+                    <ImageView
+                        android:id="@+id/imageView7"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon7" />
+
+                    <TextView
+                        android:id="@+id/textView7"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView7"
+                        android:text="@string/main_new_icon7" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View style="@style/area_v" />
+
+        <LinearLayout
+            style="@style/matchPar"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/rl4"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon4" >
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon4" />
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView4"
+                        android:text="@string/main_new_icon4" />
+                </RelativeLayout>
+
+                <View style="@style/area_v" />
+
+                <RelativeLayout
+                    android:id="@+id/rl5"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon5" >
+
+                    <ImageView
+                        android:id="@+id/imageView5"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon5" />
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView5"
+                        android:text="@string/main_new_icon5" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View style="@style/area_h" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/rl6"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon6" >
+
+                    <ImageView
+                        android:id="@+id/imageView6"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon6" />
+
+                    <TextView
+                        android:id="@+id/textView6"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView6"
+                        android:text="@string/main_new_icon6" />
+                </RelativeLayout>
+
+                <View style="@style/area_v" />
+
+                <RelativeLayout
+                    android:id="@+id/rl9"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon9" >
+
+                    <ImageView
+                        android:id="@+id/imageView9"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon9" />
+
+                    <TextView
+                        android:id="@+id/textView9"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView9"
+                        android:text="管理" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View style="@style/area_v" />
+
+        <LinearLayout
+            style="@style/matchPar"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:id="@+id/rl11"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon11" >
+
+                    <ImageView
+                        android:id="@+id/imageView11"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/print" />
+
+                    <TextView
+                        android:id="@+id/textView11"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView11"
+                        android:text="重打印" />
+                </RelativeLayout>
+
+                <View style="@style/area_v" />
+
+                <RelativeLayout
+                    android:id="@+id/rl12"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/main_new_icon12" >
+
+                    <ImageView
+                        android:id="@+id/imageView12"
+                        style="@style/mainIconImage"
+                        android:src="@drawable/main_new_icon12" />
+
+                    <TextView
+                        android:id="@+id/textView12"
+                        style="@style/mainIconText"
+                        android:layout_below="@+id/imageView12"
+                        android:text="@string/main_new_icon12" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View style="@style/area_h" />
+
+            <RelativeLayout
+                android:id="@+id/rl10"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@color/main_new_icon10" >
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    style="@style/mainIconImage"
+                    android:src="@drawable/main_new_icon10" />
+
+                <TextView
+                    android:id="@+id/textView10"
+                    style="@style/mainIconText"
+                    android:layout_below="@+id/imageView10"
+                    android:text="@string/main_new_icon10" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

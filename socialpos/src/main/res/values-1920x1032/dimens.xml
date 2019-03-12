@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_height">50.0dip</dimen>
+    <dimen name="Base_Text_Size">24sp</dimen>
+    <dimen name="right_base_text_size">10sp</dimen>
+    <dimen name="new_consume_height">130dp</dimen>
+    <dimen name="view_top_height">75dp</dimen>
+</resources>

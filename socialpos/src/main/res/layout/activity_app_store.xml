@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/title_my_app"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="0.1dp"
+            android:layout_weight="1"
+            android:background="@color/title_dark_blue" >
+
+            <TextView
+                style="@style/text_18_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:drawableTop="@drawable/my_app"
+                android:text="@string/my_app" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/title_app_store"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="0.1dp"
+            android:layout_marginTop="0.1dp"
+            android:layout_weight="1"
+            android:background="@color/title_white_blue" >
+
+            <TextView
+                style="@style/text_18_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:drawableTop="@drawable/app_store"
+                android:text="@string/app_store" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/title_app_manager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="0.1dp"
+            android:layout_weight="1"
+            android:background="@color/title_white_blue" >
+
+            <TextView
+                style="@style/text_18_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:drawableTop="@drawable/app_manager"
+                android:text="@string/app_manager" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/title_back"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="0.1dp"
+            android:layout_weight="1"
+            android:background="@color/title_white_blue" >
+
+            <TextView
+                style="@style/text_18_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:drawableTop="@drawable/home"
+                android:text="@string/back" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/fragment_main"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="6"
+        android:background="@color/background_white_grey"
+        android:orientation="vertical" />
+
+</LinearLayout>

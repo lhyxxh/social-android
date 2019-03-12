@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Z\\Documents\\git\\sdbz\\social-sdbz_v2\\Codes\\social-android\\socialpos\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Z\\.android\\build-cache\\b0a3e51fed26c9c56a91db1430d0ae7c58e76a6a\\output\\res\\values-w360dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 54,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

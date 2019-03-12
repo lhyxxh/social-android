@@ -1,0 +1,79 @@
+-injars 'C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Z\AppData\Local\Android\Sdk\build-tools\28.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\Z\Documents\git\sdbz\social-sdbz_v2\Codes\social-android\socialpos\build\intermediates\multi-dex\debug\components.flags'
+
+
+# view AndroidManifest.xml #generated:26
+-keep class com.eastcom.social.pos.application.MyApplication {
+    <init>(...);
+}
+
+# tinker multidex keep patterns:
+-keep public class * extends com.tencent.tinker.loader.app.ApplicationLifeCycle {
+    <fields>;
+    <methods>;
+}
+
+-keep public class * extends com.tencent.tinker.loader.TinkerLoader {
+    <fields>;
+    <methods>;
+}
+
+-keep public class * extends android.app.Application {
+    <fields>;
+    <methods>;
+}
+
+# your dex.loader patterns here
+-keep class com.tencent.tinker.loader.** {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.tinker.app.AppContext {
+    <fields>;
+    <methods>;
+}
+
+-keep class tinker.sample.android.app.BaseBuildInfo {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.eastcom.social.pos.application.MyApplication {
+    <fields>;
+    <methods>;
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}
